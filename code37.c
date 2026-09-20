@@ -1,4 +1,4 @@
-#include<stdio.h> //header file
+#include<crtdefs.h> //header file
 int main()
 { //start bracket
 	int n, i;
